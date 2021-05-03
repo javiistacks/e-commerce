@@ -17,7 +17,7 @@
 
 
 ## Introduction
-An Employee Management CLI interface capable of creating, viewing, updating, and deleting records and saving them in a MySql database.
+A mysql database and application backend for an e-commerce site. 
 
 ## Demo
 
@@ -40,30 +40,21 @@ on the command line while in the employee-Tracker folder.
 * [npm](https://docs.npmjs.com/cli/v7/commands/npm-install)
   * npm is the package manager for the Node JavaScript platform. 
 
-* [mysql](https://www.npmjs.com/package/mysql)
+* [dotenv](https://www.npmjs.com/package/dotenv)
   * Enables the application to create a connection to the mysql database.
 
-* [inquirer](https://www.npmjs.com/package/inquirer)
-  * A collection of common interactive command line user interfaces.
+* [express](https://www.npmjs.com/package/express)
+  * Enables the application to create a connection to the mysql database.
   
-* [console-table-printer](https://www.npmjs.com/package/console-table-printer)
-  * Creates the tables needed to help organize data on the console.
+* [mysql2](https://www.npmjs.com/package/mysql2)
+  * Enables the application to create a connection to the mysql database.
   
-* [figlet](https://www.npmjs.com/package/figlet)
-  * Enables the text function. 
 
-* [colors](https://www.npmjs.com/package/colors)
-  * Adds colors to the the console text.  
-
-* [node](https://www.npmjs.com/package/node)
-  * Allows to manage node as a normal dependency.
- 
- 
- ## Usage
+## Usage
 
 `👨🏽‍💻Open in Integrated Terminal`
 
-To Run application while in the employee-Tracker folder type 
+To Run application while in the developer folder type 
 ```
 npm start 
 ```
