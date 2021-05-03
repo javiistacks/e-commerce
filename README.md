@@ -25,26 +25,26 @@ Watch a demo of the application on [Youtube. My Sql Employee-Tracker.](https://y
 
 
 ## Sample 
- This is a sample of the employee-Tracker application. 
+ This is a sample of the e-commerce application. 
  <img src="./Assets/sample.png">
  
 
 ## Installations
 Type the following npm install commands: 
 ```
-1. npm i mysql inquirer console-table-printer figlet colors node
+1. npm i dotenv express mysql2 sequelize
 2. npm init -y
 ```
-on the command line while in the employee-Tracker folder. 
+on the command line while in the Developer folder. 
 
 * [npm](https://docs.npmjs.com/cli/v7/commands/npm-install)
   * npm is the package manager for the Node JavaScript platform. 
 
 * [dotenv](https://www.npmjs.com/package/dotenv)
-  * Enables the application to create a connection to the mysql database.
+  * Enables the application to access environment variables.
 
 * [express](https://www.npmjs.com/package/express)
-  * Enables the application to create a connection to the mysql database.
+  * Allows to dynamically render HTML Pages based on passing arguments to templates.
   
 * [mysql2](https://www.npmjs.com/package/mysql2)
   * Enables the application to create a connection to the mysql database.
