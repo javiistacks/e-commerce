@@ -43,7 +43,7 @@ on the command line while in the Developer folder.
 * [mysql2](https://www.npmjs.com/package/mysql2)
   * Enables the application to create a connection to the mysql database.
   
- * [sequelize](https://www.npmjs.com/package/sequelize)
+* [sequelize](https://www.npmjs.com/package/sequelize)
   * Sequelize is a promise-based Node.js ORM tool for MySQL.
 
 ## Usage
