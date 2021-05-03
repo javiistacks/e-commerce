@@ -8,7 +8,6 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Demo](#demo)
-* [Sample](#sample)
 * [Installations](#installations)
 * [Usage](#usage)
 * [Created by](#created-by)
@@ -19,15 +18,10 @@
 ## Introduction
 A mysql database and application backend for an e-commerce site. 
 
-## Demo
 
+## Demo
 Watch a demo of the application on [Youtube. Object-Relational Mapping (ORM).](https://www.youtube.com/watch?v=g1CUTYyp-LI)
 
-
-## Sample 
- This is a sample of the e-commerce application. 
- <img src="./Assets/sample.png">
- 
 
 ## Installations
 Type the following npm install commands: 
@@ -65,7 +59,7 @@ npm start
 
 ## Repository
 ### Github Repository
-Repository at [employee-Tracker](https://github.com/javiistacks/employee-Tracker)
+Repository at [e-commerce](https://github.com/javiistacks/e-commerce)
 
 
 ## License
