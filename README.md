@@ -21,7 +21,7 @@ A mysql database and application backend for an e-commerce site.
 
 ## Demo
 
-Watch a demo of the application on [Youtube. My Sql Employee-Tracker.](https://youtu.be/y42UnHpQbIc)
+Watch a demo of the application on [Youtube. Object-Relational Mapping (ORM).](https://www.youtube.com/watch?v=g1CUTYyp-LI)
 
 
 ## Sample 
